@@ -1,2 +1,11 @@
 # dotfiles
-認証情報その他個人情報を含めない。
+## For Windows
+- AutoHotKey
+- Caps2lock.reg
+
+## For WSL
+- ripgrep
+- fzf
+- ghq
+- tmux
+- bashrc
