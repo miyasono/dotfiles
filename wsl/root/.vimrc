@@ -79,6 +79,7 @@ call plug#begin('~/.vim/plugged')
   Plug 'tmux-plugins/vim-tmux-focus-events'
   Plug 'TaDaa/vimade'
   Plug 'kana/vim-submode'
+  Plug 'sinetoami/dimfocus.vim'
 call plug#end()
 
 "let g:fzf_commands_expect = 'enter'

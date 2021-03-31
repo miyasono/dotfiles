@@ -45,8 +45,9 @@ $go get github.com/x-motemen/ghq
 - .tmux.conf
   - Move .tmux.conf to rootdir
 - .bashrc
-  - add .bashrc to .bashrcかな
+  - メモを読んでやる
 - .vimrc
   - Move .vimrc to rootdir
-  - miniplugの自動インストール欲しいな。
+  - vimplugインストールしてからvim開いてPlugInstall
+ `https://github.com/junegunn/vim-plug#installation`
 
